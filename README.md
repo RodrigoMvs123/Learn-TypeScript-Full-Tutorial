@@ -6,7 +6,7 @@ https://github.com/hiteshchoudhary/typescript-youtube-22
 
 https://raw.githubusercontent.com/RodrigoMvs123/Learn-TypeScript-Full-Tutorial/main/README.md
 
-
+https://github.com/RodrigoMvs123/Learn-TypeScript-Full-Tutorial/blame/main/README.md
 
 https://www.google.com/inspect /console 
 
