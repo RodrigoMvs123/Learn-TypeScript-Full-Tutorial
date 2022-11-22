@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=30LWjhZzg50
 
 https://github.com/hiteshchoudhary/typescript-youtube-22
 
+https://raw.githubusercontent.com/RodrigoMvs123/Learn-TypeScript-Full-Tutorial/main/README.md
+
 
 
 https://www.google.com/inspect /console 
